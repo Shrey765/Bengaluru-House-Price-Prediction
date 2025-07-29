@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="screenshots/Screenshot 2025-07-29 at 11.48.33 PM.png" alt="App Preview" width="800"/>
+  <img src="images/Screenshot 2025-07-29 at 11.48.33 PM.png" alt="App Preview" width="800"/>
 </p>
 
 
