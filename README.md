@@ -1,3 +1,14 @@
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![Flask](https://img.shields.io/badge/Flask-WebFramework-lightgreen)
+![ML](https://img.shields.io/badge/Model-RidgeRegression-orange)
+![Status](https://img.shields.io/badge/Status-Working-brightgreen)
+
+
+<p align="center">
+  <img src="" alt="App Preview" width="700"/>
+</p>
+
+
 # 🏠 House Price Prediction Web App
 
 A web-based application built with **Flask**, **scikit-learn**, and **Bootstrap** that predicts house prices based on location, number of bedrooms (BHK), bathrooms, and total square feet.
